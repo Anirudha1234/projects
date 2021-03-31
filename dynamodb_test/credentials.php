@@ -1,0 +1,5 @@
+<?php
+$access_key = '';
+$secret_key = '';
+$region = 'us-east-2';
+?>
